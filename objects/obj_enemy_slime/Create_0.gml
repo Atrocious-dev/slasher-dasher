@@ -1,6 +1,6 @@
 /// Initialize the slime 
 event_inherited();
-image_speed = .15;
+image_speed = 0.50;
 spd = 0.50;
 hp = 3;
 state = scr_enemy_idle_state;
