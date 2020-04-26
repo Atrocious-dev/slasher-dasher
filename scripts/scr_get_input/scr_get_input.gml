@@ -41,38 +41,38 @@ if (gamepad_is_connected(0)) {
 payload[? "x"] = xaxis;
 payload[? "y"] = yaxis;
 
+// Set default action to idle
+payload[? "action"] = "Idle";
+
 // check for roll
 if (roll_key == true) {
 	payload[? "action"] = "Basic Roll";
-	scr_update_player_state(payload);	
 }
 
 //check for basic attack
 if (attack_key == true) {
 	payload[? "action"] = "Basic Attack";
-	scr_update_player_state(payload);	
 }
 
 //check for strong attack
 if (strong_attack_key == true) {
 	payload[? "action"] = "Strong Attack";
-	scr_update_player_state(payload);	
 }	
 //check for projectile 
 if (projectile_key == true) {
 	payload[? "action"] = "Projectile";
-	scr_update_player_state(payload);	
 }
 
 //check for move
 if (xaxis != 0 || yaxis != 0) {
 	payload[? "action"] = "Move";
-	scr_update_player_state(payload);
 }
 
 // check for dash 
 
 if (dash_key == true) {
 	payload[? "action"] = "Dash";
-	scr_update_player_state(payload);
 }
+
+// Run the update
+scr_update_player_state(payload);

@@ -8,5 +8,6 @@ len = 0;
 dir = 0;
 
 depth = -10.5;
+image_speed = 0;
 
 //state = scr_move_state;

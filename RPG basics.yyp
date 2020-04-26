@@ -727,6 +727,14 @@
             }
         },
         {
+            "Key": "a9188620-a624-4a5a-83ae-a1b53faf038b",
+            "Value": {
+                "id": "cac204c7-9ded-47ae-b604-8ef6a564433a",
+                "resourcePath": "options\/linux\/options_linux.yy",
+                "resourceType": "GMLinuxOptions"
+            }
+        },
+        {
             "Key": "a9607556-d33f-44da-bd4c-5950c71b69f5",
             "Value": {
                 "id": "1f6022bd-c3d6-4347-b3b8-1e8091ff264f",
@@ -852,6 +860,14 @@
                 "id": "486ae807-b2f5-48db-9179-2d80abc107c5",
                 "resourcePath": "sprites\/spr_wall\/spr_wall.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "cc98d028-7bdd-4680-85f3-c87a7baa481e",
+            "Value": {
+                "id": "36f3f125-a672-44ae-94ba-5cc2f7aacaca",
+                "resourcePath": "options\/windows\/options_windows.yy",
+                "resourceType": "GMWindowsOptions"
             }
         },
         {

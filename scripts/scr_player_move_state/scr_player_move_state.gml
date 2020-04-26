@@ -26,7 +26,7 @@ yaxis = argument0[? "y"];
 	phy_position_y += vspd;
 
 	// Control the sprite 
-	
+
 	image_speed = 1;
 	if (len == 0) image_index = 0;
 	

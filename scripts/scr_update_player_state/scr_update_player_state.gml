@@ -10,14 +10,14 @@
 //Three possible outcomes: Nothing we ignore it, Change state immediately, queue up next state 
 
 //there are cases within cases 
-// argument0 is action, argument1 is 
+// argument0 is payload
 action = argument0[? "action"]
 
 switch (action) {
 	//player is moving in any direction		
 	
 	case "Idle":
-	
+		scr_player_idle_state();
 	
 	break;
 
@@ -37,7 +37,7 @@ switch (action) {
 
 	//update sprites to be running sprites and make player able to run slightly faster 
 	case "Dash":
-		scr_player_dash_state(payload);
+		//scr_player_dash_state(payload);
 	
 	break;
 	
@@ -45,7 +45,7 @@ switch (action) {
 	
 	//throw projectile object in current direction of player (8 directional)
 	case "Projectile":
-		scr_player_projectile_state(projectile);
+		//scr_player_projectile_state(projectile);
 	break;
 	
 	
