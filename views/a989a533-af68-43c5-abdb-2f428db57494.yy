@@ -10,7 +10,7 @@
         "c8d53ddd-aecc-459f-99d4-aa6c4b3debb3"
     ],
     "filterType": "GMScript",
-    "folderName": "scr_enemy_state",
+    "folderName": "scr_enemy_states",
     "isDefaultView": false,
     "localisedFolderName": ""
 }

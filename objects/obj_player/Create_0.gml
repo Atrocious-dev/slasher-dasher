@@ -1,14 +1,12 @@
-/// Set fixed rotation
+
+phy_fixed_rotation = true; 
 hp = 3; 
-spd = 1.11;
+spd = 1.99;
 hspd = 0;
 vspd = 0;
 len = 0;
 dir = 0;
 
-
-attacked = false; 
-image_speed = 0;
 depth = -10.5;
 
-state = scr_move_state;
+//state = scr_move_state;
