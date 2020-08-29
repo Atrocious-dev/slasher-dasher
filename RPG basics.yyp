@@ -47,6 +47,14 @@
             }
         },
         {
+            "Key": "01ec64fb-9b3d-444e-9ca6-8b08c159c88a",
+            "Value": {
+                "id": "cd1f65ce-5208-4063-9bb6-2057130f199e",
+                "resourcePath": "sprites\/Tileset_Tower\/Tileset_Tower.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "0356fb42-c8ec-4292-bfe6-b1ad67abbfa5",
             "Value": {
                 "id": "8e7bc14a-9ca3-408b-9993-9d3566c11cae",
@@ -447,6 +455,14 @@
             }
         },
         {
+            "Key": "5a85a518-ccfd-4827-a5f7-4230cb5183d9",
+            "Value": {
+                "id": "3583a9e2-937a-4b72-b501-a9873b9082fb",
+                "resourcePath": "rooms\/rm_test1\/rm_test1.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "5bae285c-7d1f-41a4-b900-a5b61f438e69",
             "Value": {
                 "id": "0af2caeb-ebac-4265-9b2a-9764033c5fa7",
@@ -567,6 +583,14 @@
             }
         },
         {
+            "Key": "706aacc0-8f3c-4838-8fc7-de239a407a14",
+            "Value": {
+                "id": "41950869-515e-4d52-a45c-abbd6c8064c6",
+                "resourcePath": "sprites\/Waterfall_mid\/Waterfall_mid.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "706c186f-1d1a-43fd-85f2-0aff0f9a11d6",
             "Value": {
                 "id": "1b8c98c5-73b9-45b9-9fc3-853e2f938217",
@@ -596,6 +620,14 @@
                 "id": "eda9b8b9-ceb9-493c-aaeb-2a56777402ac",
                 "resourcePath": "views\/7adb857c-1807-43d8-8287-39172ccce16c.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "7aee3ed7-4764-47a4-a47f-4a2025e64a67",
+            "Value": {
+                "id": "89fd4fec-5ce9-477b-a36c-6df3b0de3d51",
+                "resourcePath": "tilesets\/Waterfalls\/Waterfalls.yy",
+                "resourceType": "GMTileSet"
             }
         },
         {
@@ -719,6 +751,14 @@
             }
         },
         {
+            "Key": "8f4ba201-6942-4bc4-89a2-d6521b5cdccb",
+            "Value": {
+                "id": "dc2d3ee8-6981-476e-a5b4-40d6f9072d99",
+                "resourcePath": "sprites\/sprite21\/sprite21.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "8ffdf8b5-d748-4448-9e0f-e2ff00a14678",
             "Value": {
                 "id": "650f21ba-9fdb-415e-9a4d-bd1dbf9e324b",
@@ -783,6 +823,14 @@
             }
         },
         {
+            "Key": "9c460f2e-49ba-4aa6-a026-e73215794309",
+            "Value": {
+                "id": "9ddd4eaf-f005-4be3-b1d6-40cc7dd6d5f4",
+                "resourcePath": "sprites\/Waterfall_side\/Waterfall_side.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "9db05a4a-ec7a-49a3-8e1e-0027e99c848c",
             "Value": {
                 "id": "f9fa17e2-9a30-4de2-bae6-6e4d6b66f50a",
@@ -796,6 +844,14 @@
                 "id": "5ef95b97-d0b2-4291-b0f8-ceec014045d0",
                 "resourcePath": "sprites\/spr_grass\/spr_grass.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "9fe9ff2d-6a3b-4382-88d6-d4024c9b63ce",
+            "Value": {
+                "id": "4fe3faba-1339-4518-a67f-8e277bac93e7",
+                "resourcePath": "tilesets\/tileset2\/tileset2.yy",
+                "resourceType": "GMTileSet"
             }
         },
         {
@@ -927,6 +983,14 @@
             }
         },
         {
+            "Key": "c0655a15-2229-4417-870f-9cb8c3f5d9c1",
+            "Value": {
+                "id": "d8f8cd47-083d-49b3-b98b-3a396e0cd82b",
+                "resourcePath": "sounds\/sound3\/sound3.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "c481f611-ffc8-447f-8ebb-28776054ee85",
             "Value": {
                 "id": "8120bb7a-ac94-478f-958d-13b56f4c4256",
@@ -1002,7 +1066,7 @@
             "Key": "d72fdd6d-f15a-4e6d-ab66-2589eb479c93",
             "Value": {
                 "id": "aa06b9be-aec4-495e-9ed4-31e019ae1b59",
-                "resourcePath": "rooms\/rm_test\/rm_test.yy",
+                "resourcePath": "rooms\/Full_map\/Full_map.yy",
                 "resourceType": "GMRoom"
             }
         },
@@ -1103,6 +1167,14 @@
             }
         },
         {
+            "Key": "e8d25cfd-7ff5-431a-929f-ca798806253d",
+            "Value": {
+                "id": "5888ae44-0482-411f-aa3b-ae90c1d812ad",
+                "resourcePath": "tilesets\/Overworld1\/Overworld1.yy",
+                "resourceType": "GMTileSet"
+            }
+        },
+        {
             "Key": "ea392c2f-ad94-44d9-b5cc-053238b2dd3d",
             "Value": {
                 "id": "ea6884ff-636a-40f0-851e-d48e302d3b2c",
@@ -1124,6 +1196,14 @@
                 "id": "71b7dcc5-f1d6-482e-b024-ba5d4eb47bc0",
                 "resourcePath": "views\/eb188329-db47-459b-abb4-bc68925de0ac.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "eb5119e3-7f44-4ac0-bbdc-ae466d5d4929",
+            "Value": {
+                "id": "a19f6423-ce0e-4dd2-b72a-b4f50d4580a0",
+                "resourcePath": "sounds\/sound2\/sound2.yy",
+                "resourceType": "GMSound"
             }
         },
         {
@@ -1188,14 +1268,6 @@
                 "id": "7f807454-34ce-49e7-8849-4e319aa42d8a",
                 "resourcePath": "views\/f49ea53a-15e9-400d-8b5a-c9282997b70a.yy",
                 "resourceType": "GMFolder"
-            }
-        },
-        {
-            "Key": "f5ac523a-ee48-4a8f-a14b-e89adb2e2fe8",
-            "Value": {
-                "id": "8bfa8e7f-3785-47ef-a41e-347f3042403f",
-                "resourcePath": "rooms\/rm_lockedcave\/rm_lockedcave.yy",
-                "resourceType": "GMRoom"
             }
         },
         {

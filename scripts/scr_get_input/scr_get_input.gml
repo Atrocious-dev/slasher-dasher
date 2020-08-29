@@ -9,10 +9,10 @@ down_key = keyboard_check(vk_down);
 
 
 dash_key = keyboard_check(ord("X"));
-roll_key = keyboard_check(ord("Z"));
+roll_key = keyboard_check(ord("C"));
 attack_key = keyboard_check(ord("C"));
-strong_attack_key = keyboard_check(ord("X"));
-projectile_key = keyboard_check(ord("X"));
+strong_attack_key = keyboard_check(ord("C"));
+projectile_key = keyboard_check(ord("C"));
 
 //Get the axis 
 

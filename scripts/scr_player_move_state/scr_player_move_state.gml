@@ -16,7 +16,7 @@ yaxis = argument0[? "y"];
 	} else {
 		len = spd; 
 	}
-  
+   
 	// get the hspd and vspd
 	hspd = lengthdir_x(len, dir);
 	vspd = lengthdir_y(len, dir);
