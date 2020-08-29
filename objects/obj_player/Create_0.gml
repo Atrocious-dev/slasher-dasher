@@ -1,7 +1,7 @@
 
-phy_fixed_rotation = true; 
-hp = 3; 
-spd = 1.99;
+//phy_fixed_rotation = true; 
+hp = 20; 
+spd = 2;
 hspd = 0;
 vspd = 0;
 len = 0;

@@ -22,9 +22,12 @@ yaxis = argument0[? "y"];
 	vspd = lengthdir_y(len, dir);
 
 	// Move
-	phy_position_x += hspd;
-	phy_position_y += vspd;
-
+	show_debug_message("phy_position_x: " + string(phy_position_x) + " hspd: " + string(hspd));
+	//phy_position_x += hspd;
+	//phy_position_y += vspd;
+	x += hspd;
+	y += vspd;
+	
 	// Control the sprite 
 
 	image_speed = 1;
